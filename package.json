@@ -1,0 +1,19 @@
+{
+  "name": "twitter_like_list_download",
+  "version": "1.0.0",
+  "description": "download twitter like list photo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zonvugha",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "twitter": "^1.7.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
