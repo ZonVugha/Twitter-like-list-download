@@ -1,4 +1,5 @@
 {
     "filepath":"sava file path",
-    "maxfile":"20"
+    "maxfile":"100",
+    "username":"username"
 }
